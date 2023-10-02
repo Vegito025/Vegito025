@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Profile Banner](https://via.placeholder.com/800x200/3498db/FFFFFF?text=Machine+Learning+%26+Full+Stack+Developer)
+![Profile Banner](https://via.placeholder.com/1200x300/3498db/FFFFFF?text=Machine+Learning+%26+Full+Stack+Developer)
 
 <!-- Introduction -->
 # Hi there, I'm Subramanian Iyer! 👋
@@ -24,7 +24,7 @@ I thrive on building innovative solutions by combining the power of **Machine Le
 
 You can connect with me on LinkedIn or reach out via email:
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subramanian-iyer-933295203/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subramanian-iyer-933295203/)
 - **Email:** [iyersubramanian101@gmail.com](mailto:iyersubramanian101@gmail.com)
 
 Feel free to drop me a message if you have questions, project ideas, or just want to chat about tech and development.
