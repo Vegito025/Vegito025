@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hello, I'm Subramanian Iyer! 👋
 
-<!--
-**Vegito025/Vegito025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate Machine Learning and Full Stack Developer who loves to code and create amazing things. Here, you'll find some information about me and how to get in touch.
 
-Here are some ideas to get you started:
+![Profile Avatar](https://avatars.githubusercontent.com/u/89723942?v=4)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I'm a Machine Learning and Full Stack Developer with a strong interest in both Full Stack Development and Machine Learning. I enjoy working with a variety of technologies, including Python, Node.js, React.js, Tensorflow, MongoDB, and Postgresql. I'm always eager to learn new things and tackle exciting projects.
+
+## Connect with Me
+
+You can connect with me on LinkedIn or drop me an email:
+
+- [LinkedIn](https://www.linkedin.com/in/subramanian-iyer-933295203/)
+- Email: iyersubramanian101@gmail.com
+
+Feel free to reach out if you have any questions, collaboration ideas, or just want to chat about technology and development.
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Vegito025.Vegito025)
+
+Thanks for visiting! 😄
