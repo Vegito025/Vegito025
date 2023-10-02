@@ -1,22 +1,35 @@
-# Hello, I'm Subramanian Iyer! 👋
+<!-- Banner Image -->
+![Profile Banner](https://via.placeholder.com/800x200/3498db/FFFFFF?text=Machine+Learning+%26+Full+Stack+Developer)
 
-Welcome to my GitHub profile! I'm a passionate Machine Learning and Full Stack Developer who loves to code and create amazing things. Here, you'll find some information about me and how to get in touch.
+<!-- Introduction -->
+# Hi there, I'm Subramanian Iyer! 👋
 
-![Profile Avatar](https://avatars.githubusercontent.com/u/89723942?v=4)
+I'm a passionate **Machine Learning** and **Full Stack Developer** who loves to code and create amazing things. Welcome to my GitHub profile, where I showcase my projects, share knowledge, and connect with fellow developers.
 
+<!-- Technologies -->
+## Technologies I Love ❤️
+
+- **Languages:** Python, JavaScript
+- **Web Development:** Node.js, React.js
+- **Machine Learning:** TensorFlow, scikit-learn
+- **Databases:** MongoDB, PostgreSQL
+
+<!-- About Me -->
 ## About Me
 
-I'm a Machine Learning and Full Stack Developer with a strong interest in both Full Stack Development and Machine Learning. I enjoy working with a variety of technologies, including Python, Node.js, React.js, Tensorflow, MongoDB, and Postgresql. I'm always eager to learn new things and tackle exciting projects.
+I thrive on building innovative solutions by combining the power of **Machine Learning** and the creativity of **Full Stack Development**. My journey in tech has been filled with exciting challenges, continuous learning, and the joy of solving real-world problems.
 
-## Connect with Me
+<!-- Connect with Me -->
+## Let's Connect 🌐
 
-You can connect with me on LinkedIn or drop me an email:
+You can connect with me on LinkedIn or reach out via email:
 
-- [LinkedIn](https://www.linkedin.com/in/subramanian-iyer-933295203/)
-- Email: iyersubramanian101@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subramanian-iyer-933295203/)
+- **Email:** [iyersubramanian101@gmail.com](mailto:iyersubramanian101@gmail.com)
 
-Feel free to reach out if you have any questions, collaboration ideas, or just want to chat about technology and development.
+Feel free to drop me a message if you have questions, project ideas, or just want to chat about tech and development.
 
+<!-- Visitor Badge -->
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Vegito025.Vegito025)
 
-Thanks for visiting! 😄
+Thanks for stopping by! 😄
