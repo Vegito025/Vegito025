@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Profile Banner](github-header-image (1).png)
+![Profile Banner](banner_image.png)
 
 <!-- Introduction -->
 # Hi there, I'm Subramanian Iyer! 👋
