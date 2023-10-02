@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Profile Banner](https://via.placeholder.com/1200x300/3498db/FFFFFF?text=Machine+Learning+%26+Full+Stack+Developer)
+![Profile Banner](github-header-image.png)
 
 <!-- Introduction -->
 # Hi there, I'm Subramanian Iyer! 👋
